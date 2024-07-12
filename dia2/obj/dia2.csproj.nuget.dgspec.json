@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj": {}
+    "C:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj": {
+    "C:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj",
+        "projectUniqueName": "C:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj",
         "projectName": "dia2",
-        "projectPath": "c:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj",
+        "projectPath": "C:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\dia2.csproj",
         "packagesPath": "C:\\Users\\dhiego\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\obj\\",
+        "outputPath": "C:\\Users\\dhiego\\OneDrive\\Documentos\\CSHARP\\estudo.net\\dia2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dhiego\\AppData\\Roaming\\NuGet\\NuGet.Config"

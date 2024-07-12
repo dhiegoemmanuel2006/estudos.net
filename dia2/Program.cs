@@ -56,6 +56,7 @@ double resultado = 0;
             break;
         default:
             Console.WriteLine("Digite um dos valores citados!");
+            break;
 
     }
 }
