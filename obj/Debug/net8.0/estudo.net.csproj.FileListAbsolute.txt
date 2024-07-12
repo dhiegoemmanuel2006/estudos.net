@@ -12,3 +12,4 @@ C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\refint\es
 C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.pdb
 C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.genruntimeconfig.cache
 C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\ref\estudo.net.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.sourcelink.json

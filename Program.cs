@@ -1,9 +1,13 @@
-﻿using system;
+﻿var lista1 = new int[5];
 
-Console.WriteLine("Digite o primeiro valor para soma:");
-int num1 = Convert.ToInt32(Console.ReadLine());
+for(int contador = 0; contador < 5; contador++){
+    Console.WriteLine($"Digite o valor para o elemento {contador + 1} da lista: ");
+    lista1[contador] = Convert.ToInt32(Console.ReadLine());
+}
 
-Console.WriteLine("\nDigite o segundo valor para a soma: ");
-int num2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Elementos que foram armazenados na lista:");
 
-Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
+foreach(int num in lista1){
+    Console.WriteLine(num);
+}
+
