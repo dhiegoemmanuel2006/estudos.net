@@ -1,0 +1,15 @@
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\bin\Debug\net8.0\dia1.exe
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\bin\Debug\net8.0\dia1.deps.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\bin\Debug\net8.0\dia1.runtimeconfig.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\bin\Debug\net8.0\dia1.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\bin\Debug\net8.0\dia1.pdb
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.AssemblyInfoInputs.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.AssemblyInfo.cs
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.csproj.CoreCompileInputs.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.sourcelink.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\refint\dia1.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.pdb
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\dia1.genruntimeconfig.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\dia1\obj\Debug\net8.0\ref\dia1.dll
