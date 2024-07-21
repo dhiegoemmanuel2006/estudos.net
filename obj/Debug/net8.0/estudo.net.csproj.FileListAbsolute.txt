@@ -1,0 +1,15 @@
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\bin\Debug\net8.0\estudo.net.exe
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\bin\Debug\net8.0\estudo.net.deps.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\bin\Debug\net8.0\estudo.net.runtimeconfig.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\bin\Debug\net8.0\estudo.net.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\bin\Debug\net8.0\estudo.net.pdb
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.AssemblyInfoInputs.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.AssemblyInfo.cs
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.csproj.CoreCompileInputs.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\refint\estudo.net.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.pdb
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.genruntimeconfig.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\ref\estudo.net.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\obj\Debug\net8.0\estudo.net.sourcelink.json

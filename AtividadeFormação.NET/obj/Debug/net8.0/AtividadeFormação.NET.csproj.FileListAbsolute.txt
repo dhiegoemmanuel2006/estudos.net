@@ -1,0 +1,15 @@
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\bin\Debug\net8.0\AtividadeFormação.NET.exe
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\bin\Debug\net8.0\AtividadeFormação.NET.deps.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\bin\Debug\net8.0\AtividadeFormação.NET.runtimeconfig.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\bin\Debug\net8.0\AtividadeFormação.NET.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\bin\Debug\net8.0\AtividadeFormação.NET.pdb
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.AssemblyInfoInputs.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.AssemblyInfo.cs
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.csproj.CoreCompileInputs.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.sourcelink.json
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\refint\AtividadeFormação.NET.dll
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.pdb
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\AtividadeFormação.NET.genruntimeconfig.cache
+C:\Users\dhiego\OneDrive\Documentos\CSHARP\estudo.net\AtividadeFormação.NET\obj\Debug\net8.0\ref\AtividadeFormação.NET.dll
